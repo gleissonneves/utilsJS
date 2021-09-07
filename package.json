@@ -1,0 +1,25 @@
+{
+  "name": "utilsjs",
+  "version": "1.0.0",
+  "description": "Create repository help codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gleissonneves/utilsJS.git"
+  },
+  "keywords": [
+    "uteis"
+  ],
+  "author": "Gleisson Neves <gleissonneves2017@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gleissonneves/utilsJS/issues"
+  },
+  "homepage": "https://github.com/gleissonneves/utilsJS#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
